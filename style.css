@@ -1,0 +1,85 @@
+#header{
+    background-color: lightseagreen;
+    height: 85px;
+    width: 100%;
+    }
+#header p{
+    position: relative;
+    color: white;
+    text-align: center;
+    top: 4px;
+    font-size:65px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+.d1{
+    height: 300px;
+    width: 300px;
+    display: inline;
+    position: relative;
+    top: 70px;
+}
+
+#img1{
+    border: 15px solid lightseagreen;
+    left: 13%;
+}
+
+#img2{
+   
+    left: 18%;
+    border: 15px dashed lightseagreen;
+}
+
+#img3{
+    left: 22%;
+    border: 15px dotted lightseagreen;
+}
+
+#img4{
+    left: 25%;
+    top: 170px;
+    border: 15px outset lightseagreen;
+}
+#img5{
+    left:30% ;
+    top: 170px;
+    border: 15px outset lightseagreen;
+}
+
+#img6{
+    left: 25%;
+    border: 15px double lightseagreen;
+    top: 260px;
+}
+#img7{
+    left: 31%;
+    top: 245px;
+}
+
+#descriptionBox{
+    position: relative;
+    background-color: lightseagreen;
+    left: 10%;
+    height: 300px;
+    top: 350px;
+    width: 1150px;
+    border-top: 10px solid green;
+    border-right: 10px solid pink;
+    border-bottom: 10px solid blue;
+    border-left: 10px solid red;
+    
+
+
+}
+
+#description{
+    position: relative;
+    font-family: sans-serif;
+    color: white;
+    /* padding: 20px; */
+    padding: 0px 20px 0px 20px;
+    font-size: 20px;
+    text-align: justify;
+
+}
